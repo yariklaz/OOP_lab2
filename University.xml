@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<University>
+	<Faculty Name="FCSC">
+		<Department Name="Computer sciency">
+			<Student Name="Ivan Ivanov" ID="101">
+				<Session>
+					<Subject Title="Math" Grade="90" />
+					<Subject Title="Programming" Grade="95" />
+				</Session>
+			</Student>
+			<Student Name="Petro Petrenko" ID="102">
+				<Session>
+					<Subject Title="Math" Grade="60" />
+					<Subject Title="History" Grade="85" />
+				</Session>
+			</Student>
+		</Department>
+	</Faculty>
+	<Faculty Name="FE">
+		<Department Name="Economy">
+			<Student Name="Olena Koval" ID="201">
+				<Session>
+					<Subject Title="Math" Grade="88" />
+				</Session>
+			</Student>
+		</Department>
+	</Faculty>
+</University>
